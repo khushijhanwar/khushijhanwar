@@ -36,6 +36,13 @@ Contributed to four peer-reviewed publications across IEEE, Springer, and AIP, s
 
 ---
 
+## Education
+
+**M.S. Data Science** · Indiana University Bloomington · Aug 2024 – May 2026
+
+**B.Tech. Information Technology** · Vishwakarma Institute of Technology, Pune · Aug 2019 – May 2023
+
+---
 ## Tech Stack
 
 
@@ -61,12 +68,5 @@ Contributed to four peer-reviewed publications across IEEE, Springer, and AIP, s
 
 
 
-## Education
-
-**M.S. Data Science** · Indiana University Bloomington · Aug 2024 – May 2026
-
-**B.Tech. Information Technology** · Vishwakarma Institute of Technology, Pune · Aug 2019 – May 2023
-
----
 
 Contact me:  [Email](mailto:khushi.jhanwar@outlook.com) or [LinkedIn](https://linkedin.com/in/khushijhanwar) 
