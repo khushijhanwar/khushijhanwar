@@ -1,6 +1,6 @@
 # Hi, I'm Khushi 👋
 
-AI/ML Engineer and Data Scientist — Agentic AI, RAG, and cloud data systems. Currently building AI browser-automation and content-automation systems as a Senior Consultant at Heartland Community Network. M.S. Data Science, Indiana University Bloomington (May 2026).
+AI/ML Engineer and Data Scientist with expertise in Agentic AI, RAG,LLM and cloud data systems. Currently building AI browser-automation and content-automation systems as a Senior Consultant at Heartland Community Network. M.S. Data Science, Indiana University Bloomington (May 2026).
 
 Contributed to four peer-reviewed publications across IEEE, Springer, and AIP, spanning VR feedback analysis, disease prediction, and speech recognition for Indian regional languages.
 
