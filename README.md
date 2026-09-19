@@ -10,27 +10,19 @@ Contributed to four peer-reviewed publications across IEEE, Springer, and AIP, s
 ## Work Experience
 
 **Senior Consultant — AI Engineer** · Heartland Community Network · Jun 2026 – Present
-- Orchestrated an AI browser-automation agent to run read/verify/edit QA workflows across a live production CMS, pairing it with custom audit scripts in a human-in-the-loop pattern that caught a data-integrity gap the agent's own checks had missed.
-- Automated large-scale page-title rewrites and category-tag fixes, cutting a multi-hour manual process to under two minutes per batch (~99% reduction), and built a link-discovery script turning searches that took up to 4 hours into a five-minute full-site sweep.
-- Designed an AI-based blog-to-product internal linking system using semantic similarity, cutting overall linking effort across a large content and product catalog ~45% versus a fully manual process.
+Building an AI browser-automation agent for read/verify/edit QA workflows on a live production CMS, plus automated content and internal-linking systems using semantic similarity.
 
 **Graduate Data Science Research Assistant** · Indiana University Bloomington · Jan 2026 – May 2026
-- Engineered reproducible ML data pipelines (Python, SQL, Pandas) and feature engineering/model evaluation workflows (scikit-learn, MLflow), cutting data preparation time 60%.
-- Automated statistical analysis and stakeholder reporting with a self-serve Streamlit dashboard, cutting manual reporting effort 70%.
+Engineered reproducible ML data pipelines and a self-serve Streamlit reporting dashboard, cutting manual reporting effort 70%.
 
 **AI/ML Intern** · Kellton Tech · Jun 2025 – Aug 2025
-- Designed and developed an AI-powered resume-JD parsing system (LLMs, NLP, ML) reaching 85% parsing accuracy, and built an end-to-end Streamlit application that cut manual screening effort 70%.
-- Benchmarked Ollama, Mistral-7B, TinyLlama, and Gemini API models on latency, accuracy, and cost, achieving 35% faster response times after prompt and token optimization.
-- Led a LinkedIn job-matching module (TF-IDF, SVD, XGBoost, logistic regression), improving role-fit prediction F1-score 22%.
+Built an AI-powered resume-JD parsing system reaching 85% accuracy and benchmarked local vs. hosted LLMs on latency, accuracy, and cost.
 
 **Data Analyst** · Atlas Copco, India · Jun 2023 – Jun 2024
-- Analyzed time-series telemetry data for early anomaly detection, reducing critical incidents 40% through predictive failure forecasting.
-- Designed and deployed 20+ custom Nagios plugins and Power BI dashboards, improving observability 60% and cutting manual triage time 90%.
-- Authored 18+ SOPs and led 10+ global training sessions, achieving ISO 27001-compliant, consistent data-governance standards.
+Analyzed telemetry data for early anomaly detection and deployed 20+ Nagios/Power BI dashboards, improving observability 60%.
 
 **ML Researcher** · Vishwakarma Institute of Technology, Pune · Aug 2021 – May 2023
-- Fine-tuned transformer models (Wav2Vec2, NVIDIA NeMo, BART) for multilingual speech recognition and NLP, and built ensemble learning models reaching 99% classification accuracy vs. a 95% baseline.
-- Contributed to four peer-reviewed publications across IEEE, Springer, and AIP, spanning VR feedback analysis, disease prediction, and speech recognition for Indian regional languages.
+Fine-tuned transformer models (Wav2Vec2, NVIDIA NeMo, BART) for multilingual speech recognition and ensemble learning models reaching 99% classification accuracy.
 
 
 ---
