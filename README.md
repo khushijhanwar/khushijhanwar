@@ -10,19 +10,19 @@ Contributed to four peer-reviewed publications across IEEE, Springer, and AIP, s
 ## Work Experience
 
 **Senior Consultant — AI Engineer** · Heartland Community Network · Jun 2026 – Present
-Building an AI browser-automation agent for read/verify/edit QA workflows on a live production CMS, plus automated content and internal-linking systems using semantic similarity.
+: Building an AI browser-automation agent for read/verify/edit QA workflows on a live production CMS, plus automated content and internal-linking systems using semantic similarity.
 
 **Graduate Data Science Research Assistant** · Indiana University Bloomington · Jan 2026 – May 2026
-Engineered reproducible ML data pipelines and a self-serve Streamlit reporting dashboard, cutting manual reporting effort 70%.
+: Engineered reproducible ML data pipelines and a self-serve Streamlit reporting dashboard, cutting manual reporting effort 70%.
 
 **AI/ML Intern** · Kellton Tech · Jun 2025 – Aug 2025
-Built an AI-powered resume-JD parsing system reaching 85% accuracy and benchmarked local vs. hosted LLMs on latency, accuracy, and cost.
+: Built an AI-powered resume-JD parsing system reaching 85% accuracy and benchmarked local vs. hosted LLMs on latency, accuracy, and cost.
 
 **Data Analyst** · Atlas Copco, India · Jun 2023 – Jun 2024
-Analyzed telemetry data for early anomaly detection and deployed 20+ Nagios/Power BI dashboards, improving observability 60%.
+: Analyzed telemetry data for early anomaly detection and deployed 20+ Nagios/Power BI dashboards, improving observability 60%.
 
 **ML Researcher** · Vishwakarma Institute of Technology, Pune · Aug 2021 – May 2023
-Fine-tuned transformer models (Wav2Vec2, NVIDIA NeMo, BART) for multilingual speech recognition and ensemble learning models reaching 99% classification accuracy.
+: Fine-tuned transformer models (Wav2Vec2, NVIDIA NeMo, BART) for multilingual speech recognition and ensemble learning models reaching 99% classification accuracy.
 
 
 ---
