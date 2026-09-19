@@ -56,4 +56,4 @@ Fine-tuned transformer models (Wav2Vec2, NVIDIA NeMo, BART) for multilingual spe
 
 ---
 
-Reach me on [Contact](mailto:khushi.jhanwar@outlook.com) or at [LinkedIn](https://linkedin.com/in/khushijhanwar) 
+Reach me on [Email](mailto:khushi.jhanwar@outlook.com) or at [LinkedIn](https://linkedin.com/in/khushijhanwar) 
